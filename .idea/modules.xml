@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/btc_data.iml" filepath="$PROJECT_DIR$/.idea/btc_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bitcoin-Fork.iml" filepath="$PROJECT_DIR$/.idea/Bitcoin-Fork.iml" />
     </modules>
   </component>
 </project>
